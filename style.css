@@ -9,6 +9,7 @@ h3, .intro, #about_me,#contact {
     padding: 3px;
     border: solid;
     margin-top: 70px;
+    margin-left: 250px;
 }
 #small_pic {
     padding-left:20px;
@@ -38,7 +39,7 @@ h2{
     padding-bottom: 60px;
 }
 #big_pic_1 {
-    margin-right:400px;
+    margin-right: 350px;
     float:right;
 }
 p {
@@ -48,6 +49,7 @@ p {
 .blurb {
     padding-bottom: 5px;
     color: white;
+    width: 600px;
 }
 #link {
     color: white;
@@ -58,7 +60,6 @@ p {
 }
 #dance_pic{
     float: left;
-    margin-left: 250px;
     margin-right: 150px;
 }
 #about_me{
