@@ -8,6 +8,7 @@ h3, .intro {
     height:340px;
     padding: 3px;
     border: solid;
+    margin-top: 70px;
 }
 #small_pic {
     padding-left:20px;
@@ -37,7 +38,6 @@ h2{
     padding-bottom: 60px;
 }
 #big_pic_1 {
-    margin-top: 70px;
     margin-right:400px;
     float:right;
 }
@@ -45,19 +45,36 @@ p {
     font-size: 18px;
     color: #000080;
 }
-#blurb {
+.blurb {
     padding-bottom: 5px;
     color: white;
 }
 #link {
     color: white;
-    text-decoration:underline;
     padding: 4px;
     border: solid;
     border-color: #2e2eb8;
     margin: 35px;
 }
 #dance_pic{
-
+    float: left;
+    margin-left: 250px;
+    margin-right: 150px;
 }
+#about_me{
+    margin-top: 50px;
+}
+#blurb2{
+    color: #3377ff;
+    width: 1000px;
+}
+#link2{
+    text-decoration:underline;
+    color: #2e2eb8;
+    padding: 4px;
+    border: solid;
+    border-color: #2e2eb8;
+}
+
+
 
