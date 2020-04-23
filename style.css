@@ -1,11 +1,10 @@
-body{
+h3{
     background-color: #968DEA;
-
 }
-
 
 #small_pic {
     padding-left:20px;
+    padding-top:5px;
     width:65px;
     height:65px;
     vertical-align:middle;
