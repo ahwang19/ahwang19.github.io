@@ -1,15 +1,22 @@
 body{
     background-color: #968DEA;
+
 }
 
+
 #small_pic {
-    padding:5px;
-    width:75px;
-    height:75px;}
+    padding-left:20px;
+    width:65px;
+    height:65px;
+    vertical-align:middle;
+    }
 span1 {
+    color: white;
     padding-left: 5px;
-    padding-right: 300px;}
+    padding-right: 650px;
+    }
 #tab {
-    width: 600px;
-    padding: 25px;
-    text-}
+    color: white;
+    text-decoration:underline;
+    padding: 35px;
+    }
