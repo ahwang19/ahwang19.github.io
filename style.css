@@ -3,7 +3,12 @@ h3, .intro {
     margin-top:-10px;
     margin-bottom:-10px;
 }
-
+.big_pic {
+    width:250px;
+    height:340px;
+    padding: 3px;
+    border: solid;
+}
 #small_pic {
     padding-left:20px;
     padding-top:8px;
@@ -34,11 +39,7 @@ h2{
 #big_pic_1 {
     margin-top: 70px;
     margin-right:400px;
-    width:250px;
-    height:340px;
     float:right;
-    padding: 3px;
-    border: solid;
 }
 p {
     font-size: 18px;
@@ -55,5 +56,8 @@ p {
     border: solid;
     border-color: #2e2eb8;
     margin: 35px;
+}
+#dance_pic{
+
 }
 
