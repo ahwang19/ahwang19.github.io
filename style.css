@@ -24,7 +24,7 @@ span1 {
 h1{
     padding-top: 75px;
     padding-left: 250px;
-    /* color: white; */
+    color: white;
 }
 h2{
     padding-top: 20px;
@@ -42,17 +42,18 @@ h2{
 }
 p {
     font-size: 18px;
-    /* color: #000080; */
+    color: #000080;
 }
 #blurb {
     padding-bottom: 5px;
-    /*color: white;  */
+    color: white;
 }
 #link {
     color: white;
     text-decoration:underline;
     padding: 4px;
     border: solid;
-    /* border-color: #2e2eb8;*/
+    border-color: #2e2eb8;
     margin: 35px;
 }
+
